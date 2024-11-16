@@ -8,6 +8,7 @@ function App() {
   return (
     <ContextProviders>
       <BrowserRouter>
+        Colby's Dashboard
         <PageContainer></PageContainer>
       </BrowserRouter>
     </ContextProviders>
