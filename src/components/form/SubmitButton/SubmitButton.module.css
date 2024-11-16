@@ -1,0 +1,8 @@
+.submitButton {
+  display: grid;
+}
+
+.submitButton>* {
+  grid-column: 1;
+  grid-row: 1;
+}
